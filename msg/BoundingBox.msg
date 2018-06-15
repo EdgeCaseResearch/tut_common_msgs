@@ -5,4 +5,4 @@ int64 ymin
 int64 xmax
 int64 ymax
 
-int64 object_id
+uint64 object_id
