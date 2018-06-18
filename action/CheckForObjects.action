@@ -1,12 +1,12 @@
 # Check if objects in image
 
 # Goal definition
-int16 id
+uint64 id
 sensor_msgs/Image image
 
 ---
 # Result definition
-int16 id
+uint64 id
 tut_common_msgs/BoundingBoxes boundingBoxes
 sensor_msgs/Image image
 
